@@ -44,7 +44,6 @@ class MarkSystem:
             self.add_student()
 
     def add_student(self):
-        # I keep changing var names lol
         sID = input("Student ID pls: ")
         sName = input("Student Name pls: ")
         birthday = input("DOB: ")
